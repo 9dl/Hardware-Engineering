@@ -9,7 +9,7 @@ An ESP32-based signal jammer.
 
 - **Specifications**:
   - **Microcontroller**: ESP32-WROOM-32U
-  - **Modules**: nRF24L01+PA+LNA (x2)
+  - **Modules**: NRF24L01 + PA + LNA (x2)
   - **Capacitors**: 10uF (2x) – rated above 5V
   - **PCB Board**
 
@@ -26,29 +26,7 @@ An ESP32-based signal jammer.
 A tool for performing Wi-Fi deauthentication attacks using ESP8266.
 
 - **Specifications**:
-  - **Microcontroller**: ESP8266
-  - **Software**: To be added
-
-- **Build Progress**: Planned
-
----
-
-### 3. WiFi Pineapple
-A portable Wi-Fi penetration testing device.
-
-- **Specifications**:
-  - **Modules**: To be finalized
-  - **Software**: To be added
-
-- **Build Progress**: Planned
-
----
-
-### 4. Pwnagotchi
-An AI-powered Wi-Fi hacking tool.
-
-- **Specifications**:
-  - **Microcontroller**: Raspberry Pi Zero W
-  - **Software**: To be added
+  - **Microcontroller**: [ESP8266](https://amzn.eu/d/jfIlodT)
+  - **Software**: [Deauther DIY](https://deauther.com/docs/diy/supported-devices)
 
 - **Build Progress**: Planned
