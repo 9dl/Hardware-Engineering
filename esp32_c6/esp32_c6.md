@@ -33,7 +33,7 @@ This tutorial will guide you through setting up the **ESP32 C6** and connecting 
 ## Wiring Diagram
 
 ![img.png](img.png)
-
 ---
 
+- [ESP32 C6 Code for nRF24L01](example.ino)
 - [Go Back to Main README](../README.md)
