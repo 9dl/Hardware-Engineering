@@ -16,7 +16,11 @@ Each board project includes:
 This repository includes the following boards (with more to come!):
 
 - **[ESP32 C6](esp32_c6/esp32_c6.md)**
-    - Project includes the **nRF24L01** wireless module, example code, and comprehensive tutorials on wiring, setup, and testing.
+    - Project includes the **nRF24L01** wireless module possibly for Jamming.
+- **[ESP8266](esp8266/esp8266.md)**
+  - Wi-Fi deauthentication and Fake Access Points 
+
+These examples should only be used for **ethical, legal educational purposes**, such as **penetration testing in authorized environments**, **security research**, and **networking experiments** on **isolated or private networks**. It is important to **never** use these techniques on public networks or unauthorized systems.
 
 > 🚀 Stay tuned as we add more boards, exciting modules, and features!
 
