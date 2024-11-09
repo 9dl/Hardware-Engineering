@@ -36,4 +36,24 @@ Whether you're a beginner in hardware engineering or looking to enhance your kno
 
 ---
 
+| Module                  | Chip    | Flash Memory | PSRAM      | Wi-Fi Support         | Bluetooth Support    | Key Features                                 | Best IoT Application                                      |
+|-------------------------|---------|--------------|------------|-----------------------|----------------------|----------------------------------------------|-----------------------------------------------------------|
+| **ESP32 C6 WROOM-1-N16** | CH343P  | 16 MB       | 512KB   | Wi-Fi 6 (802.11ax)    | Bluetooth 5.0 (BLE)   | Advanced IoT with Wi-Fi 6, secure protocols  | High-throughput IoT, secure connectivity, Wi-Fi 6 testing |
+| **ESP32 S3 WROOM-1-N16R8** | -/-    | 16 MB       | 8MB   | Wi-Fi 4 (802.11n)     | Bluetooth 5.0 (BLE)   | AI/ML processing, enhanced GPIO support      | Smart home, AI and ML IoT devices, camera support         |
+| **ESP32 WROOM NodeMCU** | CH343C  | 4 MB        | 520KB   | Wi-Fi 4 (802.11n)     | Bluetooth 4.2 (BLE)   | General-purpose IoT, cost-efficient          | Basic IoT testing, prototyping, connectivity tasks        |
+| **ESP8266 NodeMCU v3**  | CH340G  | 4 MB        | -/-   | Wi-Fi 4 (802.11n)     | No Bluetooth         | Low-cost, simple IoT deployment              | Basic IoT devices, low-power Wi-Fi applications           |
+| **ESP32 WROVER-IE**     | -/-     | 4 MB/8 MB    | 4 MB/8 MB  | Wi-Fi 4 (802.11n)     | Bluetooth 4.2 (BLE)   | High memory, industrial data processing      | Industrial IoT, large data processing, rapid connectivity |
+| **RTL8720dn BW16**      | -/-     | 2 MB        | 64KB       | Wi-Fi 4 (802.11 b/g/n) | Bluetooth 5.0 (BLE)  | Dual-band Wi-Fi (2.4 GHz & 5 GHz)            | IoT networks requiring stable dual-band connectivity      |
+
+### Explanation of Terms
+
+- **WROOM**: Standard ESP32 modules with reliable Wi-Fi/Bluetooth and GPIO, ideal for general IoT projects.
+- **WROVER**: ESP32 modules with added PSRAM for handling larger data, suited to industrial and data-intensive applications.
+- **NodeMCU**: Development board for ESP modules, offering USB programming ease, popular for prototyping and testing.
+- **PSRAM**: Extra memory often used in complex tasks or data-heavy applications.
+- **BLE (Bluetooth Low Energy)**: A power-efficient Bluetooth variant, enabling low-energy IoT devices to connect easily.
+- **Dual-Band Wi-Fi**: Supports both 2.4 GHz and 5 GHz for better flexibility and reduced interference in crowded environments.
+
+---
+
 We hope this repository will help you dive deeper into hardware engineering and make your projects even more powerful. Enjoy exploring, and feel free to contribute or provide feedback!
