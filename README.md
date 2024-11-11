@@ -22,6 +22,9 @@ This repository includes the following boards (with more to come!):
 
 These examples should only be used for **ethical, legal educational purposes**, such as **penetration testing in authorized environments**, **security research**, and **networking experiments** on **isolated or private networks**. It is important to **never** use these techniques on public networks or unauthorized systems.
 
+![image](https://github.com/user-attachments/assets/26834f66-9c90-41d9-bc94-95bdf34a820a)
+
+
 > 🚀 Stay tuned as we add more boards, exciting modules, and features!
 
 ## 🧭 Getting Started
